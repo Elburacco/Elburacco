@@ -21,8 +21,9 @@ Selenium
 Django
 Prestashop
 
-demo: https://demoabc.coolcatsof.dev/
-used in: https://bullimania.pl/
+demo: https://demoabc.coolcatsof.dev/pl/11-laptopy-lenovo
+
+simplified version was used in https://bullimania.pl/
 
 
 
