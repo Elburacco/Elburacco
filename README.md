@@ -5,7 +5,8 @@ Cause not all of my project can be published I prepared short descriptions of th
 my code during interview.
 
 
-Automated computer store:
+Automated webstore.
+
 This project uses Scrapy/Selenium to gather data from specified supplier webpage and upload it to django models.
 
 If data provided are not sufficient we got additional module that takes title line like 
