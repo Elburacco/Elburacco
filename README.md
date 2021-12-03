@@ -1,5 +1,5 @@
 Hi, welcome to my Github account made for recruitment purposes. 
-Currently I am looking for a job thatr will allow me to develop my skills, mainly regarding cooperating with other developers.
+Currently I am looking for a job that allow me to develop my skills, mainly regarding cooperating with other developers.
 
 Cause not all of my project can be published I prepared short descriptions of them and I'll be happy to present
 my code during interview.
@@ -15,10 +15,23 @@ There is additional scraper to prepare processors database with number of cores 
 When it's all ready products are uploaded to Prestashop with features, options and combinations by my script based on prestapyt library. 
 
 Status: in develepement. usable
-
-
-Technology:
 Scrapy
 Selenium
 Django
 Prestashop
+
+demo: https://demoabc.coolcatsof.dev/
+used in: https://bullimania.pl/
+
+
+
+Betting services playing bot.
+In last month I was part of team creating bots for mass play in betting services. 
+Bot tasks:
+receive and parse data from Betburger,
+and play simultanously on several websites. 
+My part was to write serve BETCLICK, EXPECT, UNIBET, BETSSON, CASHPOINT
+
+Status: finished succesfully
+Selenium Webdriver
+Seleniumwire
