@@ -7,7 +7,7 @@ my code during interview.
 
 Automated webstore.
 
-This project uses Scrapy/Selenium to gather data from specified supplier webpage and upload it to django models.
+This project uses Scrapy/Selenium to gather data from specified supplier webpage and upload it to Django models.
 
 If data provided are not sufficient we got additional module that takes title line like 
 "Laptop Lenovo X250 i5-5gen 8GB 180GB SSD KAM Windows Professional", searches for model details in Duckduckgo/CNET,
