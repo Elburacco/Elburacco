@@ -29,11 +29,12 @@ simplified version was used in https://bullimania.pl/
 
 Betting services playing bot.
 
-In last month I was part of team creating bots for mass play in betting services. 
+In last months I was part of team creating bots for mass play in betting services. 
 Bot tasks:
-receive and parse data from Betburger,
-and play simultanously on several websites. 
-My part was to write serve BETCLICK, EXPECT, UNIBET, BETSSON, CASHPOINT
+receive and parse data from Betburger, log in, check bet history and wallet balance, cash out 
+and play simultanously on several websites and their clones. 
+My part was to write bots to play BETCLICK, EXPECT, UNIBET, BETSSON, CASHPOINT.
+Bot 
 
 Status: finished succesfully
 
