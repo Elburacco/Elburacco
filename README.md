@@ -36,5 +36,5 @@ and play simultanously on several websites.
 My part was to write serve BETCLICK, EXPECT, UNIBET, BETSSON, CASHPOINT
 
 Status: finished succesfully
-Selenium Webdriver
-Seleniumwire
+
+Selenium Webdriver/Seleniumwire
