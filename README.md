@@ -34,7 +34,7 @@ Bot tasks:
 receive and parse data from Betburger, log in, check bet history and wallet balance, cash out 
 and play simultanously on several websites and their clones. 
 My part was to write bots to play BETCLICK, EXPECT, UNIBET, BETSSON, CASHPOINT.
-Bot 
+
 
 Status: finished succesfully
 
