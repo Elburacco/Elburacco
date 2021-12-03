@@ -16,6 +16,7 @@ There is additional scraper to prepare processors database with number of cores 
 When it's all ready products are uploaded to Prestashop with features, options and combinations by my script based on prestapyt library. 
 
 Status: in develepement. usable
+
 Scrapy
 Selenium
 Django
