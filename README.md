@@ -26,6 +26,7 @@ used in: https://bullimania.pl/
 
 
 Betting services playing bot.
+
 In last month I was part of team creating bots for mass play in betting services. 
 Bot tasks:
 receive and parse data from Betburger,
